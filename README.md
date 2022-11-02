@@ -24,5 +24,5 @@
 
 ## Assets
 
-![This is the beginning works of my professional portfolio to use for future job searches](/Develop/assets/images/Brandon%20Jimenez%20Portfolio.gif)
+![This is the beginning works of my professional portfolio to use for future job searches](./assets/images/Brandon%20Jimenez%20Portfolio.gif)
 ​
