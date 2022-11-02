@@ -20,7 +20,7 @@
 
 - Repository: https://github.com/bjimenez09/Professional-Portfolio
 
-- Live URL: 
+- Live URL: https://bjimenez09.github.io/Professional-Portfolio/
 
 ## Assets
 
